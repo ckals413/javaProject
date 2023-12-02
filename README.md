@@ -26,6 +26,6 @@ github 연습 이건 코드 삽입
 \*임차민 \*
 
 🥇
-|dlacka|sdfdfs|dddd|
+|dladfdfdfscka|sdfddddddddfs|ddddddddddd|
 |-------|-------|------|
 |ckals|ckals|ckals|
