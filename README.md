@@ -29,3 +29,8 @@ github 연습 이건 코드 삽입
 |dladfdfdfscka|sdfddddddddfs|ddddddddddd|
 |-------|-------|------|
 |ckals|ckals|ckals|
+
+
+|dladfdfdfscka|sdfddddddddfs|ddddddddddd|
+|:-------|:-------:|------:|
+|ckals|ckals|ckals|
